@@ -1,16 +1,50 @@
-<h1 align="center">assalamu'alaikum <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm marvell 😇 </h1>
+<!--
+  Title: Marvell
+  Description: Bukan Programmer, Cuman Gabut Wkwk
+  Author: Marvell
+  -->
+
+
 <p align="center">
-  <img src="https://i.ibb.co/D4zf88L/20220109-082757.jpg" /></>
+<a href="https://github.com/marvelldigitalcloud"><img title="Marvell" src="https://img.shields.io/badge/GitHub-MFarelS-red.svg?style=for-the-badge&logo=github"></a>
 </p>
-
-- 👼 My name is Marvell
-- 🗣️ I am 14 years old 
-- 🔭 I am not programmer
-
-## ```Connect with me```
 <p align="center">
-  <a href="https://instagram.com/marvell.awm"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/6282264865477"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://github.com/marvelldigitalcloud"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+<a href="https://github.com/marvelldigitalcloud/followers"><img title="Followers" src="https://img.shields.io/github/followers/MFarelS?color=blue&style=flat-square"></a>
+<p>
 
-</p>
+Hi 👋 Saya [Marvell Alvienzky Wiedhy Manunggal](https://github.com/marvelldigitalcloud), Murid Di [SMPN 4 Kota Kediri](https://www.smpn4kotakediri.sch.id/).
+
+[![](https://img.shields.io/badge/Umur-14-green)](https://wa.me/6282264865477)
+
+#### Dukung Saya
+```
+Bantu Support Lahh Biar Semangad Kerjain Project Nya Wkwk
+```
+* [`Telkomsel : 0822-6486-5477`](#) 
+* [`GoPay : 0822-6486-5477`](#) 
+* [`OVO : 0822-6486-5477`](#) 
+
+## Marvell
+```js
+const M = require('0') 
+const 0 = require('M')
+const M0 = (M, 0) => {
+  return {
+    Sosmed: {`
+              WhatsApp: "0822-6486-5477", 
+              Instagram: "@marvell.awm", 
+              GitHub: "marvelldigitalcloud"
+            `}, 
+    Link-Sosmed: {`
+                  WhatsApp: "https://wa.me/6282264865477",
+                  Instagram: "https://www.instagram.com/marvell.awm/",
+                  GitHub: "https://github.com/marvelldigitalcloud"
+                 `}
+         }
+}
+```
+
+## Marvell
+[![WhatsApp](https://img.icons8.com/fluent/40/000000/whatsapp.png)](https://api.whatsapp.com/send?phone=6282264865477&text=Halo+Marvell)
+[![Instagram](https://img.icons8.com/fluent/40/000000/instagram-new.png)](https://instagram.com/marvell.awm)
+[![GitHub](https://img.icons8.com/fluent/40/000000/github.png)](https://github.com/marvelldigitalcloud)
