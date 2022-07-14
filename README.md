@@ -27,9 +27,9 @@ Bantu Support Lahh Biar Semangad Kerjain Project Nya Wkwk
 
 ## Versi Java Script
 ```js
-const Marvell = require('Soju') 
-const Soju = require('Marvell')
-const MarvellSoju = (Marvell, Soju) => {
+const Marvell = require('Ex') 
+const Ex = require('Marvell')
+const MarvellSoju = (Marvell, Ex) => {
   return {
     Sosmed: {`
               WhatsApp: "0822-6486-5477", 
