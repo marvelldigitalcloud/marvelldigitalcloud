@@ -29,7 +29,7 @@ Bantu Support Lahh Biar Semangad Kerjain Project Nya Wkwk
 ```js
 const Marvell = require('Ex') 
 const Ex = require('Marvell')
-const MarvellSoju = (Marvell, Ex) => {
+const MarvellEx = (Marvell, Ex) => {
   return {
     Sosmed: {`
               WhatsApp: "0822-6486-5477", 
